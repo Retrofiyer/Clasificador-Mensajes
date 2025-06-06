@@ -2,7 +2,7 @@
     <h1>🧠 Clasificación Automatizada de Mensajes</h1>
 </div>
 
-## 📌 Acerca del Proyecto
+## Acerca del Proyecto
 
 Este proyecto implementa un sistema inteligente que clasifica automáticamente mensajes de texto en tres categorías: **Urgente 🔥**, **Moderado ⏳** o **Normal ✅**, utilizando el modelo de lenguaje de Google Gemini a través de LangChain. La API se expone con FastAPI y la visualización se realiza mediante Streamlit, brindando una experiencia simple e interactiva.
 
@@ -12,7 +12,7 @@ Este proyecto implementa un sistema inteligente que clasifica automáticamente m
     <li>
       <a href="#acerca-del-proyecto">Acerca del Proyecto</a>
       <ul>
-        <li><a href="#🧾resumen">Resumen</a></li>
+        <li><a href="#resumen">Resumen</a></li>
         <li><a href="#características">Características</a></li>
         <li><a href="#tecnologías-utilizadas">Tecnologías Utilizadas</a></li>
       </ul>
@@ -33,7 +33,7 @@ Este proyecto implementa un sistema inteligente que clasifica automáticamente m
 
 ---
 
-## 🧾 Resumen
+## Resumen
 
 El sistema consta de dos partes:
 
@@ -47,7 +47,7 @@ Las categorías asignadas son:
 
 ---
 
-## 🚀 Características
+## Características
 
 <div>
   <ul>
@@ -60,23 +60,23 @@ Las categorías asignadas son:
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 [![Python][python.com]][python-url]  
 ⚡FastAPI 📊Streamlit 🔗LangChain 🧠 Gemini API
 
 ---
 
-## 🧩 Primeros Pasos
+## Primeros Pasos
 
-### 🔧 Requisitos Previos
+### Requisitos Previos
 
 - **Python 3.9 o superior** → [Descargar Python](https://www.python.org/downloads/)
 - Tener una clave de API para Google Gemini → [Google AI Studio](https://ai.google.dev/)
 
 ---
 
-### 💻 Instalación
+### Instalación
 
 1. Clona el repositorio:
 
@@ -97,7 +97,7 @@ Las categorías asignadas son:
     pip install -r requirements.txt
    ```
 
-## ⚙️ Configuración
+## Configuración
 
 1. Crea un archivo .env en la carpeta raíz con este contenido:
 
@@ -105,7 +105,7 @@ Las categorías asignadas son:
     GOOGLE_API_KEY=TU_API_KEY
    ```
 
-## ▶️ Ejecutar el Servicio
+## Ejecutar el Servicio
 
 1. Ejecuta el backend desde su carpeta:
 
@@ -119,7 +119,7 @@ Las categorías asignadas son:
     streamlit run app.py
    ```
 
-## 🤝 Contribuciones
+## Contribuciones
 
 ¡Tu ayuda es bienvenida!
 Si deseas mejorar este proyecto (corregir errores, agregar características o mejorar la documentación), no dudes en escribirme a: 📬 sebitas5225@gmail.com

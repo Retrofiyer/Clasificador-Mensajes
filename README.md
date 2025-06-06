@@ -12,7 +12,7 @@ Este proyecto implementa un sistema inteligente que clasifica automáticamente m
     <li>
       <a href="#acerca-del-proyecto">Acerca del Proyecto</a>
       <ul>
-        <li><a href="#resumen">Resumen</a></li>
+        <li><a href="#🧾resumen">Resumen</a></li>
         <li><a href="#características">Características</a></li>
         <li><a href="#tecnologías-utilizadas">Tecnologías Utilizadas</a></li>
       </ul>

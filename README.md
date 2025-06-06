@@ -24,6 +24,7 @@ Este proyecto implementa un sistema inteligente que clasifica automáticamente m
         <li><a href="#instalación">Instalación</a></li>
         <li><a href="#configuración">Configuración</a></li>
         <li><a href="#ejecutar-el-servicio">Ejecutar el Servicio</a></li>
+        <li><a href="#evidencia">Evidencia</a></li>
       </ul>
     </li>
     <li>
@@ -45,7 +46,6 @@ Las categorías asignadas son:
 - **⏳ Moderado**: Importante, pero no urgente.
 - **✅ Normal**: Sin urgencia ni prioridad especial.
 
----
 
 ## Características
 
@@ -58,13 +58,11 @@ Las categorías asignadas son:
   </ul>
 </div>
 
----
 
 ## Tecnologías Utilizadas
 
 [![Python][python.com]][python-url]
 
----
 
 ## Primeros Pasos
 
@@ -73,7 +71,7 @@ Las categorías asignadas son:
 - **Python 3.9 o superior** → [Descargar Python](https://www.python.org/downloads/)
 - Tener una clave de API para Google Gemini → [Google AI Studio](https://ai.google.dev/)
 
----
+
 
 ### Instalación
 
@@ -119,6 +117,7 @@ Las categorías asignadas son:
    ```
 
 ## Evidencia
+
 1. Usando Swagger:
 ![127 0 0 1_8000_docs](https://github.com/user-attachments/assets/991ce6f8-a20f-449e-9d3f-547948d05b84)
 

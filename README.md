@@ -125,6 +125,11 @@ Las categorías asignadas son:
 
 ![image](https://github.com/user-attachments/assets/a99fc085-2b36-4b19-8be2-3ac3e94e8bf0)
 
+3. Usando el Front-End:
+
+![image](https://github.com/user-attachments/assets/65a804e8-8fad-4e96-94f1-8d590ddf11ed)
+
+
 ## Contribuciones
 
 ¡Tu ayuda es bienvenida!

@@ -62,8 +62,7 @@ Las categorías asignadas son:
 
 ## Tecnologías Utilizadas
 
-[![Python][python.com]][python-url]  
-⚡FastAPI 📊Streamlit 🔗LangChain 🧠 Gemini API
+[![Python][python.com]][python-url]
 
 ---
 

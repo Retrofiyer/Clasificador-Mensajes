@@ -78,8 +78,8 @@ Las categorías asignadas son:
 1. Clona el repositorio:
 
    ```sh
-    git clone https://github.com/Retrofiyer/Message-Classifier.git
-    cd Message-Classifier
+    git clone https://github.com/Retrofiyer/Clasificador-Mensajes.git
+    cd Clasificador-Mensajes
    ```
 2. Crea un entorno virtual y activa:
 

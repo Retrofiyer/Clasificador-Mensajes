@@ -119,6 +119,14 @@ Las categorías asignadas son:
     streamlit run app.py
    ```
 
+## Evidencia
+1. Usando Swagger:
+![127 0 0 1_8000_docs](https://github.com/user-attachments/assets/991ce6f8-a20f-449e-9d3f-547948d05b84)
+
+2. Usando Postman:
+
+![image](https://github.com/user-attachments/assets/a99fc085-2b36-4b19-8be2-3ac3e94e8bf0)
+
 ## Contribuciones
 
 ¡Tu ayuda es bienvenida!
